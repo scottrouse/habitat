@@ -296,3 +296,18 @@ h2.node-title a:hover {
 .node-article {
 	margin-bottom: 50px;
 }
+
+
+
+
+
+.view-photo-galleries .views-row {
+	width: 290px;
+	margin-right: 24px;
+	float: left;
+}
+
+
+.context-galleries #region-content img {
+	padding: 0;
+}
