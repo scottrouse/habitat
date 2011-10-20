@@ -265,3 +265,19 @@ h2.node-title a:hover {
 .node-testimonial .field-name-field-testimonial-img {
 	float: right;
 }
+
+
+
+
+
+
+.node-photo-gallery .field-name-field-gallery-photos .field-slideshow {
+	margin: 0;
+	float: left;
+}
+
+
+.node-photo-gallery .field-name-field-gallery-photos .field-slideshow-pager {
+	height: 507px;
+	overflow-y: scroll;
+}
