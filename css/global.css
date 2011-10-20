@@ -281,3 +281,18 @@ h2.node-title a:hover {
 	height: 507px;
 	overflow-y: scroll;
 }
+
+
+
+
+
+
+
+
+.item-list li {
+	list-style: disc;
+}
+
+.node-article {
+	margin-bottom: 50px;
+}
