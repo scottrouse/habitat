@@ -272,7 +272,7 @@ h2.node-title a:hover {
 
 
 .node-photo-gallery .field-name-field-gallery-photos .field-slideshow {
-	margin: 0;
+	margin: 0 18px 0 0;
 	float: left;
 }
 
@@ -309,5 +309,5 @@ h2.node-title a:hover {
 
 
 .context-galleries #region-content img {
-	padding: 0;
+	padding: 2px 0;
 }
